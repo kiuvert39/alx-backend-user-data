@@ -1,10 +1,3 @@
-# :book: 0x02. Session authentication.
-## :page_with_curl: Topics Covered.
-The project is about implementing a session authentication mechanism without installing any other module. The learning objectives of the project include;
-1. Understanding authentication, session authentication.
-2. Cookies, sending cookies, and parsing cookies.
-
-# :computer: Tasks.
 ## [0. Et moi et moi et moi!](api/v1/app.py)
 ### :page_with_curl: Task requirements.
 Score: 0.0% (Checks completed: 0.0%)
